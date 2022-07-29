@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.top {
+    background-color: #AEDBCE;
+    height: 100vh;
+}
+
+.top h1 {
+    color: #3AB0FF;
+    margin-top: 100px;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.anime {
+    color: #774360;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 250px;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.top-cloud {
+    position: relative;
+    top: 80px;
+    left: 250px;
+}
+
+.prfimg {
+    width: 200px;
+}
+
+.profile {
+    margin-left: 300px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 30%;
+    border-width: 7px;
+    margin: auto;
+}
+
+.middle-container,
+.skills {
+    background-color: #ADCF9F;
+}
+
+.bottom-container {
+    background-color: #CED89E;
+}
